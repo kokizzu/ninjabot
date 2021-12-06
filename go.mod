@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/StudioSol/set v0.0.0-20211001132805-52fe71d0afcf
 	github.com/adshao/go-binance/v2 v2.3.3
-	github.com/evanw/esbuild v0.14.0
+	github.com/evanw/esbuild v0.14.2
 	github.com/jpillora/backoff v1.0.0
 	github.com/markcheno/go-talib v0.0.0-20190307022042-cd53a9264d70
 	github.com/olekukonko/tablewriter v0.0.5
@@ -16,13 +16,13 @@ require (
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/xhit/go-str2duration/v2 v2.0.0
 	gopkg.in/tucnak/telebot.v2 v2.4.1
-	github.com/gin-gonic/gin v1.7.0
 )
 
 require (
 	github.com/bitly/go-simplejson v0.5.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/gin-gonic/gin v1.7.0 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/klauspost/compress v1.13.1 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
